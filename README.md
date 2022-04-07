@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AniGLM
-- 👀 I’m interested in coding
+- 👀 I’m interested in testing and coding 
 - 🌱 I’m currently learning Automation QA
 - 💞️ I’m looking to collaborate on a cool project
 - 📫 How to reach me - anighazaryan94@gmail.com
